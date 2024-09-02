@@ -112,9 +112,15 @@ More information about variables:
 -gross_tertiary_education_enrollment: Enrollment in tertiary education in the billionaire's country.
 
 -gross_primary_education_enrollment_country: Enrollment in primary education in the billionaire's country.
+
 -life_expectancy_country: Life expectancy in the billionaire's country.
+
 -tax_revenue_country_country: Tax revenue in the billionaire's country.
+
 -total_tax_rate_country: Total tax rate in the billionaire's country.
+
 -population_country: Population of the billionaire's country.
+
 -latitude_country: Latitude coordinate of the billionaire's country.
+
 -longitude_country: Longitude coordinate of the billionaire's country.
